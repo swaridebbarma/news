@@ -1,0 +1,25 @@
+h4 {
+  margin-Left: 10%;
+  color: #E84848;
+}
+
+button {
+  height: 35px;
+  background: #E84848
+}
+
+input {
+  height: 30px
+}
+
+div {
+  margin-Top: 50px
+}
+
+hr {
+  margin-Top: 15px
+}
+
+h1 {
+  font-Size: 65px
+}

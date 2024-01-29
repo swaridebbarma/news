@@ -1,0 +1,20 @@
+.col1 {
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    margin-left: 125px;
+    float: left;
+}
+
+img {
+    width: 250px;
+    height: 150px
+}
+
+p {
+    font-Size: 10px;
+}
+
+a {
+    font-Size: 10px;
+}
