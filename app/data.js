@@ -12,7 +12,7 @@ const NewsData={
             "url": "https://www.searchenginejournal.com/how-to-use-chatgpt-for-keyword-research-festive-flashback/502156/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/12/2-ff-chatgpt-for-keyword-research-657a84d71aa7d-sej.jpg",
             "publishedAt": "2024-01-05T09:15:30Z",
-            "content": "Celebrate the Holidays with some of SEJ’s best articles of 2023.\r\nOur Festive Flashback series runs from December 21 – January 5, featuring daily reads on significant events, fundamentals, actionable… [+14691 chars]"
+            "content": "Celebrate the Holidays with some of SEJ's best articles of 2023.\r\nOur Festive Flashback series runs from December 21 – January 5, featuring daily reads on significant events, fundamentals, actionable… [+14691 chars]"
         },
         {
             "source": {
@@ -25,7 +25,7 @@ const NewsData={
             "url": "https://www.searchenginejournal.com/how-to-keyword-research-specific-b2b-audiences-case-study/500398/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/11/untitled-design-53-654b6247e106b-sej.png",
             "publishedAt": "2024-01-10T10:00:23Z",
-            "content": "I’m taking you behind the scenes of a particularly tough keyword research brief we tackled. I’ll break down our approach, share our strategies, and reveal how we executed the research with a dash of … [+9600 chars]"
+            "content": "I'm taking you behind the scenes of a particularly tough keyword research brief we tackled. I'll break down our approach, share our strategies, and reveal how we executed the research with a dash of … [+9600 chars]"
         },
         {
             "source": {
@@ -34,11 +34,11 @@ const NewsData={
             },
             "author": "Filipe Espósito",
             "title": "Threads just got another update with option to show the latest search results",
-            "description": "It’s been a while since Meta’s microblogging platform, Threads, released its keyword search feature to users around the world. However, one huge downside is that Threads search doesn’t let users see search results in reverse chronological order. But that’s ch…",
+            "description": "It's been a while since Meta's microblogging platform, Threads, released its keyword search feature to users around the world. However, one huge downside is that Threads search doesn't let users see search results in reverse chronological order. But that's ch…",
             "url": "https://9to5mac.com/2024/01/08/threads-search-latest-results/",
             "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/07/instagram-threads-icon.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
             "publishedAt": "2024-01-09T02:35:49Z",
-            "content": "It’s been a while since Meta’s microblogging platform, Threads, released its keyword search feature to users around the world. However, one huge downside is that Threads search doesn’t let users see … [+1769 chars]"
+            "content": "It's been a while since Meta's microblogging platform, Threads, released its keyword search feature to users around the world. However, one huge downside is that Threads search doesn't let users see … [+1769 chars]"
         },
         {
             "source": {
@@ -46,7 +46,7 @@ const NewsData={
                 "name": "Small Business Trends"
             },
             "author": "Shubhomita Bose",
-            "title": "Use “Gift” as Keyword For Valentine’s Day Online Marketing",
+            "title": "Use “Gift” as Keyword For Valentine's Day Online Marketing",
             "description": "Planning on a special marketing effort for Valentine's Day this year? New data suggests that using the word \"gift\" is a must in a promo and don't forget about singles, who also tend to spend more on a day that targets couples.",
             "url": "https://smallbiztrends.com/2023/08/gift-valentines-day-keyword-online-marketing.html",
             "urlToImage": "https://media.smallbiztrends.com/2016/01/valentines-gift-BING-1-660x370.png",
@@ -111,8 +111,8 @@ const NewsData={
                 "name": "ReadWrite"
             },
             "author": "Ali Rees",
-            "title": "Researchers create AI that can ‘jailbreak’ other chatbots",
-            "description": "Researchers at the Nanyang Technology University (NTU) in Singapore have created an artificial intelligence (AI) chatbot that can circumvent protections […]\nThe post Researchers create AI that can ‘jailbreak’ other chatbots appeared first on ReadWrite.",
+            "title": "Researchers create AI that can ‘jailbreak' other chatbots",
+            "description": "Researchers at the Nanyang Technology University (NTU) in Singapore have created an artificial intelligence (AI) chatbot that can circumvent protections […]\nThe post Researchers create AI that can ‘jailbreak' other chatbots appeared first on ReadWrite.",
             "url": "https://readwrite.com/researches-create-ai-that-can-jailbreak-other-ai/",
             "urlToImage": "https://readwrite.com/wp-content/uploads/2024/01/DALL·E-2024-01-02-12.05.06-A-conceptual-abstract-representation-of-jailbreaking-AI-chatbots-avoiding-any-depiction-of-robots-or-humans.-The-image-focuses-on-symbolic-element.png",
             "publishedAt": "2024-01-02T12:06:10Z",
@@ -125,11 +125,11 @@ const NewsData={
             },
             "author": "Filipe Espósito",
             "title": "Threads just got another update with option to show the latest search results [U: Pulled]",
-            "description": "It’s been a while since Meta’s microblogging platform, Threads, released its keyword search feature to users around the world. However, one huge downside is that Threads search doesn’t let users see search results in reverse chronological order. But that’s ch…",
+            "description": "It's been a while since Meta's microblogging platform, Threads, released its keyword search feature to users around the world. However, one huge downside is that Threads search doesn't let users see search results in reverse chronological order. But that's ch…",
             "url": "https://9to5mac.com/2024/01/09/threads-search-latest-results/",
             "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/07/instagram-threads-icon.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
             "publishedAt": "2024-01-09T20:20:00Z",
-            "content": "It’s been a while since Meta’s microblogging platform, Threads, released its keyword search feature to users around the world. However, one huge downside is that Threads search doesn’t let users see … [+2107 chars]"
+            "content": "It's been a while since Meta's microblogging platform, Threads, released its keyword search feature to users around the world. However, one huge downside is that Threads search doesn't let users see … [+2107 chars]"
         },
         {
             "source": {
@@ -137,7 +137,7 @@ const NewsData={
                 "name": "Hubspot.com"
             },
             "author": "Katarzyna Kowalska",
-            "title": "I Took a Deep Dive Into ASO Marketing. Here’s What I Learned.",
+            "title": "I Took a Deep Dive Into ASO Marketing. Here's What I Learned.",
             "description": "Confession — I have a long history of skin allergies. Recently, I've been searching for an app that would let me track all the cosmetics that I use (or plan to) to spot ingredients that could potentially cause skin irritation.",
             "url": "https://blog.hubspot.com/marketing/aso-marketing-strategy#article",
             "urlToImage": "https://blog.hubspot.com/hubfs/ASO%20Marketing.png#keepProtocol",
@@ -150,8 +150,8 @@ const NewsData={
                 "name": "Search Engine Journal"
             },
             "author": "Matt G. Southern",
-            "title": "Google’s John Mueller Offers Help With Spammy Foreign Language Hack via @sejournal, @MattGSouthern",
-            "description": "Google's John Mueller advises how to regain search rankings after the 'Japanese keyword hack attack.'\nThe post Google’s John Mueller Offers Help With Spammy Foreign Language Hack appeared first on Search Engine Journal.",
+            "title": "Google's John Mueller Offers Help With Spammy Foreign Language Hack via @sejournal, @MattGSouthern",
+            "description": "Google's John Mueller advises how to regain search rankings after the 'Japanese keyword hack attack.'\nThe post Google's John Mueller Offers Help With Spammy Foreign Language Hack appeared first on Search Engine Journal.",
             "url": "https://www.searchenginejournal.com/googles-john-mueller-offers-help-with-spammy-foreign-language-hack/505331/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/01/img_2024-01-09-114642-659d789833c7a-sej.jpeg",
             "publishedAt": "2024-01-09T16:49:37Z",
@@ -194,7 +194,7 @@ const NewsData={
             "url": "https://www.searchenginejournal.com/why-integrated-search-matters-amazon/502797/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/12/untitled-design-56-656eda3c6f044-sej.png",
             "publishedAt": "2024-01-18T09:15:34Z",
-            "content": "Amazon’s algorithm operates differently than most other search engines, which means you need a distinct strategy when attempting to rank on the platform versus platforms like Google and Bing.\r\nTo ove… [+14342 chars]"
+            "content": "Amazon's algorithm operates differently than most other search engines, which means you need a distinct strategy when attempting to rank on the platform versus platforms like Google and Bing.\r\nTo ove… [+14342 chars]"
         },
         {
             "source": {
@@ -216,7 +216,7 @@ const NewsData={
             },
             "author": "Jenny Romanchuk",
             "title": "Programmatic SEO — Getting It Right",
-            "description": "Programmatic SEO: Is it one heck of a challenge or something you can master in three hours? Do you need a specific toolkit, or will a basic understanding of Google Sheets suffice? And most importantly, how do you tackle programmatic SEO if you’ve never done i…",
+            "description": "Programmatic SEO: Is it one heck of a challenge or something you can master in three hours? Do you need a specific toolkit, or will a basic understanding of Google Sheets suffice? And most importantly, how do you tackle programmatic SEO if you've never done i…",
             "url": "https://blog.hubspot.com/marketing/programmatic-seo#article",
             "urlToImage": "https://blog.hubspot.com/hubfs/programmatic-seo.webp#keepProtocol",
             "publishedAt": "2023-12-29T12:00:00Z",
@@ -272,7 +272,7 @@ const NewsData={
             "url": "https://www.searchenginejournal.com/ppc-advertising-benefits/502961/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/12/untitled-design-55-656ecbdbab050-sej.png",
             "publishedAt": "2024-01-26T09:30:47Z",
-            "content": "It feels like Google drops new AI-integrated features into its flagship ad platform, Google Ads, every month.\r\nIt doesn’t help that every other search engine also adopts AI features with their own sp… [+11367 chars]"
+            "content": "It feels like Google drops new AI-integrated features into its flagship ad platform, Google Ads, every month.\r\nIt doesn't help that every other search engine also adopts AI features with their own sp… [+11367 chars]"
         },
         {
             "source": {
@@ -280,8 +280,8 @@ const NewsData={
                 "name": "Techdirt"
             },
             "author": "Tim Cushing",
-            "title": "EFF Asks Pennsylvania’s Top Court To Stop Cops From Googling For Suspects",
-            "description": "Law enforcement officers learned long ago that if all they have is a crime scene and no likely suspects, there was no reason to wear out shoe leather beating the streets for alleged criminals. They don’t even need to leave the office. All they have to do is p…",
+            "title": "EFF Asks Pennsylvania's Top Court To Stop Cops From Googling For Suspects",
+            "description": "Law enforcement officers learned long ago that if all they have is a crime scene and no likely suspects, there was no reason to wear out shoe leather beating the streets for alleged criminals. They don't even need to leave the office. All they have to do is p…",
             "url": "https://www.techdirt.com/2024/01/11/eff-asks-pennsylvanias-top-court-to-stop-cops-from-googling-for-suspects/",
             "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
             "publishedAt": "2024-01-11T17:34:10Z",
@@ -294,7 +294,7 @@ const NewsData={
             },
             "author": "Camille Cunningham",
             "title": "What is keyphrase density and why is it important?",
-            "description": "Yoast SEO checks for the keyphrase density or keyword density of your text. But what is keyphrase density exactly? And why is it important for your SEO? In this article, we answer these questions. On top of that, we’ll discuss what you can do to improve the k…",
+            "description": "Yoast SEO checks for the keyphrase density or keyword density of your text. But what is keyphrase density exactly? And why is it important for your SEO? In this article, we answer these questions. On top of that, we'll discuss what you can do to improve the k…",
             "url": "https://yoast.com/what-is-keyphrase-density-and-why-is-it-important/",
             "urlToImage": "https://yoast.com/app/uploads/2019/12/og-image-blog-post-keyphrase-density.jpg",
             "publishedAt": "2024-01-23T13:48:23Z",
@@ -376,7 +376,7 @@ const NewsData={
             "url": "https://www.searchenginejournal.com/seo-success-tools-strategy-ahrefs-spa/505415/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/01/featured-659ec7fb77050-sej.jpg",
             "publishedAt": "2024-01-18T06:00:25Z",
-            "content": "This post was sponsored by Ahrefs. The opinions expressed in this article are the sponsor’s own.\r\nWith generative AI and constant Google algorithm changes, how can you shift your strategy quickly eno… [+8538 chars]"
+            "content": "This post was sponsored by Ahrefs. The opinions expressed in this article are the sponsor's own.\r\nWith generative AI and constant Google algorithm changes, how can you shift your strategy quickly eno… [+8538 chars]"
         },
         {
             "source": {
@@ -389,7 +389,7 @@ const NewsData={
             "url": "https://www.searchenginejournal.com/expertise-authority-international-expansion/503399/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/12/shutterstock_2261138641-65782ba09a258-sej.jpg",
             "publishedAt": "2024-01-23T09:15:25Z",
-            "content": "Included as a part of Google’s search quality rater guidelines is “E-E-A-T,” which stands for Experience, Expertise, Authoritativeness, and Trustworthiness. These are evaluated using a mix of signals… [+10670 chars]"
+            "content": "Included as a part of Google's search quality rater guidelines is “E-E-A-T,” which stands for Experience, Expertise, Authoritativeness, and Trustworthiness. These are evaluated using a mix of signals… [+10670 chars]"
         },
         {
             "source": {
@@ -489,11 +489,11 @@ const NewsData={
             },
             "author": "Ali Khan",
             "title": "How to Search Reviews on Google Maps",
-            "description": "Many people use Google Maps to find out about businesses, parks, locations, and destinations, by reading the reviews. While it’s one thing to browse through all of the reviews and read them, it can be very useful to narrow down reviews for something specific,…",
+            "description": "Many people use Google Maps to find out about businesses, parks, locations, and destinations, by reading the reviews. While it's one thing to browse through all of the reviews and read them, it can be very useful to narrow down reviews for something specific,…",
             "url": "https://osxdaily.com/2024/01/07/how-to-search-reviews-on-google-maps/",
             "urlToImage": "https://cdn.osxdaily.com/wp-content/uploads/2023/12/search-google-reviews-3-scaled.jpg",
             "publishedAt": "2024-01-07T16:48:42Z",
-            "content": "Many people use Google Maps to find out about businesses, parks, locations, and destinations, by reading the reviews. While it’s one thing to browse through all of the reviews and read them, it can b… [+1253 chars]"
+            "content": "Many people use Google Maps to find out about businesses, parks, locations, and destinations, by reading the reviews. While it's one thing to browse through all of the reviews and read them, it can b… [+1253 chars]"
         },
         {
             "source": {
@@ -501,7 +501,7 @@ const NewsData={
                 "name": "Android Police"
             },
             "author": "Rajesh Pandey",
-            "title": "Google says the Pixel 8 Pro’s temperature sensor is more accurate than forehead thermometers",
+            "title": "Google says the Pixel 8 Pro's temperature sensor is more accurate than forehead thermometers",
             "description": "It is almost as accurate as FDA-approved temporal artery thermometer",
             "url": "https://www.androidpolice.com/google-pixel-8-pro-temperature-sensor-more-accurate-forehead-thermometers/",
             "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/01/pixel-8-pro-close-up-2.jpg",
@@ -519,7 +519,7 @@ const NewsData={
             "url": "https://www.searchenginejournal.com/chatgpt-ppc-7-ways-sems-can-leverage-ai-tools-festive-flashback/502124/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/12/9-ff-chatgpt-ppc-657a82c4df574-sej.jpg",
             "publishedAt": "2024-01-01T11:30:01Z",
-            "content": "Celebrate the Holidays with some of SEJ’s best articles of 2023.\r\nOur Festive Flashback series runs from December 21 – January 5, featuring daily reads on significant events, fundamentals, actionable… [+11789 chars]"
+            "content": "Celebrate the Holidays with some of SEJ's best articles of 2023.\r\nOur Festive Flashback series runs from December 21 – January 5, featuring daily reads on significant events, fundamentals, actionable… [+11789 chars]"
         },
         {
             "source": {
@@ -558,7 +558,7 @@ const NewsData={
             "url": "https://www.searchenginejournal.com/how-to-build-a-future-proofed-seo-strategy-when-ai-is-changing-seo-festive-flashback/502122/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/12/8-ff-future-proofed-seo-strategy-657a832c0bfbc-sej.jpg",
             "publishedAt": "2024-01-02T09:15:04Z",
-            "content": "Celebrate the Holidays with some of SEJ’s best articles of 2023.\r\nOur Festive Flashback series runs from December 21 – January 5, featuring daily reads on significant events, fundamentals, actionable… [+11142 chars]"
+            "content": "Celebrate the Holidays with some of SEJ's best articles of 2023.\r\nOur Festive Flashback series runs from December 21 – January 5, featuring daily reads on significant events, fundamentals, actionable… [+11142 chars]"
         },
         {
             "source": {
@@ -571,7 +571,7 @@ const NewsData={
             "url": "https://www.searchenginejournal.com/should-you-focus-on-zero-search-volume-keywords-festive-flashback/502139/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/12/14-ff-zero-search-volume-657a81301ffb6-sej.jpg",
             "publishedAt": "2023-12-28T09:15:09Z",
-            "content": "Celebrate the Holidays with some of SEJ’s best articles of 2023.\r\nOur Festive Flashback series runs from December 21 – January 5, featuring daily reads on significant events, fundamentals, actionable… [+6307 chars]"
+            "content": "Celebrate the Holidays with some of SEJ's best articles of 2023.\r\nOur Festive Flashback series runs from December 21 – January 5, featuring daily reads on significant events, fundamentals, actionable… [+6307 chars]"
         },
         {
             "source": {
@@ -584,7 +584,7 @@ const NewsData={
             "url": "https://www.searchenginejournal.com/why-google-may-rank-ai-generated-content-over-original-news/505869/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/01/google-news-boosting-ai-generated-content-65aae1bbe4def-sej.jpg",
             "publishedAt": "2024-01-24T21:44:17Z",
-            "content": "A recent report from 404media.co alleged that “Google News is boosting sites that rip-off other outlets by using AI to rapidly churn out content.”\r\nWhile Danny Sullivan, Google’s SearchLiaison, offer… [+11316 chars]"
+            "content": "A recent report from 404media.co alleged that “Google News is boosting sites that rip-off other outlets by using AI to rapidly churn out content.”\r\nWhile Danny Sullivan, Google's SearchLiaison, offer… [+11316 chars]"
         },
         {
             "source": {
@@ -611,19 +611,6 @@ const NewsData={
             "urlToImage": "https://www.quicksprout.com/wp-content/uploads/2024/01/website-top-of-google_featured-image.jpeg",
             "publishedAt": "2024-01-05T23:00:00Z",
             "content": "A wide swath of professionalsincluding website owners, SEO specialists, and DIY SEO hotshotsare unknowingly wasting their time optimizing websites with serious slippages of the fundamentals. Meanwhil… [+30338 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Jonashietala.se"
-            },
-            "author": "Jonas Hietala",
-            "title": "Exploring the Gleam FFI",
-            "description": "Comments",
-            "url": "https://www.jonashietala.se/blog/2024/01/11/exploring_the_gleam_ffi/",
-            "urlToImage": null,
-            "publishedAt": "2024-01-11T12:08:00Z",
-            "content": "My brain is a curious thing.\r\nIm on a business trip right now and Ive set aside time to finish some important todos I want and need to get done.\r\nBut instead of focusing on them, I started playing ar… [+8998 chars]"
         },
         {
             "source": {
@@ -657,8 +644,8 @@ const NewsData={
                 "name": "Socialmediaexplorer.com"
             },
             "author": "Sitetrail Research Team",
-            "title": "Unlocking Website Growth: A Beginner’s Guide to SEO Services",
-            "description": "In the digital realm, achieving substantial website growth and garnering organic traffic are pivotal goals for businesses. Understanding how to navigate the intricate landscape of Search Engine Optimization (SEO) services is key. This beginner’s guide...read …",
+            "title": "Unlocking Website Growth: A Beginner's Guide to SEO Services",
+            "description": "In the digital realm, achieving substantial website growth and garnering organic traffic are pivotal goals for businesses. Understanding how to navigate the intricate landscape of Search Engine Optimization (SEO) services is key. This beginner's guide...read …",
             "url": "https://socialmediaexplorer.com/search-engine-optimization-2/unlocking-website-growth-a-beginners-guide-to-seo-services/",
             "urlToImage": "https://socialmediaexplorer.com/wp-content/uploads/2024/01/Unlocking-Website-Growth-A-Beginners-Guide-to-SEO-Services.png",
             "publishedAt": "2024-01-15T14:19:26Z",
@@ -688,7 +675,7 @@ const NewsData={
             "url": "https://www.searchenginejournal.com/how-to-use-chatgpt-to-be-more-productive-creative-festive-flashback/502118/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/12/6-ff-use-chatgpt-to-be-more-productive-657a83b010d71-sej.jpg",
             "publishedAt": "2024-01-03T10:00:27Z",
-            "content": "Celebrate the Holidays with some of SEJ’s best articles of 2023.\r\nOur Festive Flashback series runs from December 21 – January 5, featuring daily reads on significant events, fundamentals, actionable… [+16665 chars]"
+            "content": "Celebrate the Holidays with some of SEJ's best articles of 2023.\r\nOur Festive Flashback series runs from December 21 – January 5, featuring daily reads on significant events, fundamentals, actionable… [+16665 chars]"
         },
         {
             "source": {
@@ -701,7 +688,7 @@ const NewsData={
             "url": "https://www.practicalecommerce.com/how-to-research-amazon-keywords",
             "urlToImage": "https://www.practicalecommerce.com/wp-content/uploads/2024/01/How-to-Research-Amazon-Keywords.jpg",
             "publishedAt": "2024-01-18T14:49:38Z",
-            "content": "Knowing the words consumers type in Amazon’s search box has the dual benefit of optimizing product listings and identifying commercial-intent queries to target on Google.\r\nSearchers on Google have va… [+3244 chars]"
+            "content": "Knowing the words consumers type in Amazon's search box has the dual benefit of optimizing product listings and identifying commercial-intent queries to target on Google.\r\nSearchers on Google have va… [+3244 chars]"
         },
         {
             "source": {
@@ -709,7 +696,7 @@ const NewsData={
                 "name": "Digital Trends"
             },
             "author": "Tomas Franzese",
-            "title": "Xbox lays off 1,900 developers, cancels Blizzard’s survival game",
+            "title": "Xbox lays off 1,900 developers, cancels Blizzard's survival game",
             "description": "Microsoft is laying off 1,900 workers from its Xbox, ZeniMax Media, and Activision Blizzard teams, cancelling a Blizzard game in the process.",
             "url": "https://www.digitaltrends.com/gaming/xbox-activision-blizzard-layoffs-2024/",
             "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/01/blizzard-unnanounced-survival-game-feature.jpg?resize=1200%2C630&p=1",
@@ -727,7 +714,7 @@ const NewsData={
             "url": "https://www.searchenginejournal.com/tips-planning-digital-media-mix/501190/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/11/jm-featured-image-nov-2023-65527efb05e13-sej.png",
             "publishedAt": "2024-01-11T10:00:32Z",
-            "content": "From an agency advertiser’s perspective, our job is fun and exciting but also challenging and laborious in the same breath.\r\nEach scoped campaign, across a myriad of industries and objectives, can pr… [+6427 chars]"
+            "content": "From an agency advertiser's perspective, our job is fun and exciting but also challenging and laborious in the same breath.\r\nEach scoped campaign, across a myriad of industries and objectives, can pr… [+6427 chars]"
         },
         {
             "source": {
@@ -735,7 +722,7 @@ const NewsData={
                 "name": "Semrush.com"
             },
             "author": null,
-            "title": "Google’s ‘People Also Search For’: Unlock SEO Opportunities",
+            "title": "Google's ‘People Also Search For': Unlock SEO Opportunities",
             "description": "Learn about key insights you can get from Google‘s “People Also Search For” feature and how to utilize them.",
             "url": "https://www.semrush.com/blog/people-also-search-for/",
             "urlToImage": "",
@@ -753,7 +740,7 @@ const NewsData={
             "url": "https://www.searchenginejournal.com/seo-and-the-taxonomy-of-topics/505603/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/01/seo-topic-taxonomy-65a51654426e4-sej.jpg",
             "publishedAt": "2024-01-15T11:38:45Z",
-            "content": "Communicating with expertise and authority is a top priority and there’s no better starting point than outlining your content with a topic taxonomy as a way for creating content that has the best cha… [+5825 chars]"
+            "content": "Communicating with expertise and authority is a top priority and there's no better starting point than outlining your content with a topic taxonomy as a way for creating content that has the best cha… [+5825 chars]"
         },
         {
             "source": {
@@ -801,11 +788,11 @@ const NewsData={
             },
             "author": "Ben Rojas",
             "title": "How to Double Your SEO Traffic in 6 Months (With Case Studies)",
-            "description": "Do you want to increase your website traffic? Who doesn’t? Over the years, I have seen a lot of websites driving tons of additional traffic to their content with the right SEO plan. I’ve also seen other websites struggling to drive traffic while wondering wha…",
+            "description": "Do you want to increase your website traffic? Who doesn't? Over the years, I have seen a lot of websites driving tons of additional traffic to their content with the right SEO plan. I've also seen other websites struggling to drive traffic while wondering wha…",
             "url": "https://www.wpbeginner.com/opinion/how-to-double-your-seo-traffic/",
             "urlToImage": "https://www.wpbeginner.com/wp-content/uploads/2024/01/double-your-seo-traffic-in-6-months-facebook.png",
             "publishedAt": "2024-01-11T12:08:16Z",
-            "content": "Do you want to increase your website traffic? \r\nWho doesn’t?\r\nOver the years, I have seen a lot of websites driving tons of additional traffic to their content with the right SEO plan. \r\nI’ve also se… [+13823 chars]"
+            "content": "Do you want to increase your website traffic? \r\nWho doesn't?\r\nOver the years, I have seen a lot of websites driving tons of additional traffic to their content with the right SEO plan. \r\nI've also se… [+13823 chars]"
         },
         {
             "source": {
@@ -870,7 +857,7 @@ const NewsData={
             "url": "https://www.practicalecommerce.com/how-to-forecast-ppc-costs-and-revenue",
             "urlToImage": "https://www.practicalecommerce.com/wp-content/uploads/2024/01/How-to-Forecast-PPC-Costs-and-Revenue.jpg",
             "publishedAt": "2024-01-07T14:39:09Z",
-            "content": "I’m often asked to project pay-per-click costs and revenue. The task is challenging owing to variables such as historical data, trends, competitors, and, critically, unforeseen factors.\r\nNonetheless,… [+5717 chars]"
+            "content": "I'm often asked to project pay-per-click costs and revenue. The task is challenging owing to variables such as historical data, trends, competitors, and, critically, unforeseen factors.\r\nNonetheless,… [+5717 chars]"
         },
         {
             "source": {
@@ -878,26 +865,14 @@ const NewsData={
                 "name": "Abondance.com"
             },
             "author": "Johan Sellitto",
-            "title": "Goossips SEO : signature d’auteur, japanese keyword hack, liens spammy",
+            "title": "Goossips SEO : signature d'auteur, japanese keyword hack, liens spammy",
             "description": "Quelques infos sur Google (et Bing parfois) et son moteur de recherche, glanées ici et là de façon officieuse ces derniers jours. Au programme, cette semaine : les signatures des auteurs sont-elles considérées comme des facteurs de classement ? Comment gérer …",
             "url": "https://www.abondance.com/20240116-347635-goossips-seo-signature-dauteur-japanese-keyword-hack-liens-spammy.html",
             "urlToImage": "https://www.abondance.com/wp-content/uploads/2024/01/goossips-seo.jpg",
             "publishedAt": "2024-01-16T07:00:00Z",
             "content": "Voici une petite compilation des informations fournies par les porte-paroles officiels de Google ces derniers jours sur différents réseaux informels (Twitter, Hangouts, forums, conférences, etc.). Do… [+387 chars]"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Hootsuite.com"
-            },
-            "author": "Colleen Christison",
-            "title": "20 Ways To Get More Views on Instagram Reels (These Work!)",
-            "description": "Want to know how to get more views on your Instagram Reels? We've got 20 can't-miss tips to to help you rack up the big numbers.\nThe post 20 Ways To Get More Views on Instagram Reels (These Work!) appeared first on Social Media Marketing & Management Dashboar…",
-            "url": "https://blog.hootsuite.com/how-to-get-more-views-on-instagram-reels/",
-            "urlToImage": "https://blog.hootsuite.com/wp-content/uploads/2024/01/how-to-get-more-views-on-instagram-reels.png",
-            "publishedAt": "2024-01-18T20:55:09Z",
-            "content": "Want to know how to get more views on Instagram Reels? Stick with us, kid. Were giving out free social media advice that doesnt involve black-hat techniques (we look better in white, tbh), get-rich-q… [+11470 chars]"
-        },
+     
         {
             "source": {
                 "id": null,
@@ -917,7 +892,7 @@ const NewsData={
                 "name": "Small Business Trends"
             },
             "author": "Small Business Editor",
-            "title": "X’s Vertical Video Revolution: A New Era of Brand Safety and User Engagement",
+            "title": "X's Vertical Video Revolution: A New Era of Brand Safety and User Engagement",
             "description": "X is set to redefine advertising by prioritizing brand safety and leveraging the surging popularity of vertical videos with user engagement.",
             "url": "https://smallbiztrends.com/2024/01/xs-vertical-video-revolution-a-new-era-of-brand-safety-and-user-engagement.html",
             "urlToImage": "https://smallbiztrends.com/wp-content/themes/sahifa/images/logo-full.jpg",
@@ -943,7 +918,7 @@ const NewsData={
                 "name": "Forbes"
             },
             "author": "Gabriel A. Silva, Contributor, \n Gabriel A. Silva, Contributor\n https://www.forbes.com/sites/gabrielasilva/",
-            "title": "Riding A Wave Of Innovation: Surfer’s Journey To Achieve SEO Dominance",
+            "title": "Riding A Wave Of Innovation: Surfer's Journey To Achieve SEO Dominance",
             "description": "By leveraging large language models and AI, Surfer has developed algorithms that respond and adapt to SEO algorithms in real time.",
             "url": "https://www.forbes.com/sites/gabrielasilva/2024/01/23/riding-a-wave-of-innovation-surfers-journey-to-achieve-seo-dominance/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/659669a69e0691b43fb4f0c6/0x0.jpg?format=jpg&crop=1498,796,x0,y54,safe&height=900&width=1600&fit=bounds",
@@ -974,7 +949,7 @@ const NewsData={
             "url": "https://www.searchenginejournal.com/top-3-google-ranking-factors-that-really-matter-festive/502158/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/12/1-ff-3-google-ranking-factors-657a8523c24a6-sej.jpg",
             "publishedAt": "2024-01-05T11:00:37Z",
-            "content": "Celebrate the Holidays with some of SEJ’s best articles of 2023.\r\nOur Festive Flashback series runs from December 21 – January 5, featuring daily reads on significant events, fundamentals, actionable… [+23348 chars]"
+            "content": "Celebrate the Holidays with some of SEJ's best articles of 2023.\r\nOur Festive Flashback series runs from December 21 – January 5, featuring daily reads on significant events, fundamentals, actionable… [+23348 chars]"
         },
         {
             "source": {
@@ -983,7 +958,7 @@ const NewsData={
             },
             "author": null,
             "title": "Auto Repair SEO: The Complete 14-Step Guide",
-            "description": "Auto repair SEO doesn’t have to be difficult. Follow our guide to boost visibility and reach more customers.",
+            "description": "Auto repair SEO doesn't have to be difficult. Follow our guide to boost visibility and reach more customers.",
             "url": "https://www.semrush.com/blog/auto-repair-seo/",
             "urlToImage": "",
             "publishedAt": "2024-01-25T13:02:00Z",
@@ -1009,7 +984,7 @@ const NewsData={
             },
             "author": null,
             "title": "13 Advanced SEO Techniques & Strategies for 2024",
-            "description": "Here‘s a list of 13 advanced SEO techniques you can use to boost your site‘s organic rankings and traffic.",
+            "description": "Here's a list of 13 advanced SEO techniques you can use to boost your site‘s organic rankings and traffic.",
             "url": "https://www.semrush.com/blog/advanced-seo/",
             "urlToImage": "https://static.semrush.com/blog/uploads/media/15/3b/153bc1a1dc10a5bea568d17b002a4b10/advanced-seo-sm.png",
             "publishedAt": "2024-01-16T09:32:00Z",
@@ -1073,7 +1048,7 @@ const NewsData={
                 "name": "Semrush.com"
             },
             "author": null,
-            "title": "YouTube SEO: How to Boost Your Channel’s Visibility",
+            "title": "YouTube SEO: How to Boost Your Channel's Visibility",
             "description": "Want to know how to get your videos to rank on YouTube? Follow our step-by-step YouTube SEO guide.",
             "url": "https://www.semrush.com/blog/youtube-seo/",
             "urlToImage": "https://static.semrush.com/blog/uploads/media/73/4a/734a915067b70967fd96c86bd7e3b982/youtube-seo-how-to-create-a-channel-sm.png",
@@ -1087,7 +1062,7 @@ const NewsData={
             },
             "author": null,
             "title": "Introduction to GPU Programming in Chapel",
-            "description": "This post gives a beginner’s introduction to Chapel’s GPU programming features",
+            "description": "This post gives a beginner's introduction to Chapel's GPU programming features",
             "url": "https://chapel-lang.org/blog/posts/intro-to-gpus/",
             "urlToImage": null,
             "publishedAt": "2024-01-14T09:08:56Z",
@@ -1112,12 +1087,12 @@ const NewsData={
                 "name": "The Atlantic"
             },
             "author": "Spencer Kornhaber",
-            "title": "Green Day Is Protesting the ‘American Idiot’—Again",
+            "title": "Green Day Is Protesting the ‘American Idiot'—Again",
             "description": "The trio is still attracting controversy, and listeners, with its blend of politics and punk.",
             "url": "https://www.theatlantic.com/culture/archive/2024/01/green-day-saviors-interview/677243/?utm_source=feed",
             "urlToImage": null,
             "publishedAt": "2024-01-25T18:07:33Z",
-            "content": "Were anyone in denial that this would be an election year ruled by conflict and nonsense, a wake-up call came in the form of Dick Clark’s New Year’s Rockin’ Eve With Ryan Seacrest. Performing on the … [+8447 chars]"
+            "content": "Were anyone in denial that this would be an election year ruled by conflict and nonsense, a wake-up call came in the form of Dick Clark's New Year's Rockin' Eve With Ryan Seacrest. Performing on the … [+8447 chars]"
         },
         {
             "source": {
@@ -1130,7 +1105,7 @@ const NewsData={
             "url": "https://andreasimonecosta.dev/posts/what-the-heck-is-a-homomorphic-mapped-type/",
             "urlToImage": "https://andreasimonecosta.dev/images/mapped_type_omomorfi/the-what.jpg",
             "publishedAt": "2024-01-06T11:58:44Z",
-            "content": "I remember back in the day when I stumbled upon the term homomorphic for the first time in the good ol' TypeScript handbook. Honestly, the handbook’s explanation was a bit fuzzy to me.\r\nAfter listing… [+11401 chars]"
+            "content": "I remember back in the day when I stumbled upon the term homomorphic for the first time in the good ol' TypeScript handbook. Honestly, the handbook's explanation was a bit fuzzy to me.\r\nAfter listing… [+11401 chars]"
         },
         {
             "source": {
@@ -1182,21 +1157,9 @@ const NewsData={
             "url": "https://www.searchenginejournal.com/seo-problems-how-solve-webceo-spcs/505310/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/01/featured-image-659d753e5e21a-sej.jpg",
             "publishedAt": "2024-01-23T16:07:59Z",
-            "content": "1. Manual Actions &amp; Penalties By Google\r\nYou may have been breaking Google’s guidelines or posting spammy and harmful content without realizing it.\r\nThese things can incur a well-deserved manual … [+11669 chars]"
+            "content": "1. Manual Actions &amp; Penalties By Google\r\nYou may have been breaking Google's guidelines or posting spammy and harmful content without realizing it.\r\nThese things can incur a well-deserved manual … [+11669 chars]"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Bernsteinbear.com"
-            },
-            "author": "Max Bernstein",
-            "title": "Type information for faster Python C extensions",
-            "description": "PyPy is an alternative implementation of the Python language. PyPy’s C API compatibility layer has some performance issues. Carl Friedrich Bolz-Tereick and I are working on a way to make PyPy’s C API interactions much faster. It’s looking very promising. Here…",
-            "url": "https://bernsteinbear.com/blog/typed-c-extensions/",
-            "urlToImage": "https://bernsteinbear.com/favicon.ico",
-            "publishedAt": "2024-01-14T09:48:48Z",
-            "content": "PyPy is an alternative implementation of the Python language. PyPys C API\r\ncompatibility layer has some performance issues. Carl Friedrich\r\nBolz-Tereick and I are working on a way to make PyPys C\r\nAP… [+18989 chars]"
-        },
+   
         {
             "source": {
                 "id": null,
@@ -1269,7 +1232,7 @@ const NewsData={
             },
             "author": "Sameer Shukla",
             "title": "Demystifying Basics of Async/Await in Python",
-            "description": "The ‘asyncio’ is a Python module that provides support for writing asynchronous code using the async/await syntax. It is designed to handle asynchronous I/O operations efficiently, making it well-suited for building concurrent and scalable applications.\nUnder…",
+            "description": "The ‘asyncio' is a Python module that provides support for writing asynchronous code using the async/await syntax. It is designed to handle asynchronous I/O operations efficiently, making it well-suited for building concurrent and scalable applications.\nUnder…",
             "url": "https://dzone.com/articles/demystifying-basics-of-asyncawait-in-python",
             "urlToImage": "https://dz2cdn4.dzone.com/storage/article-thumb/17447215-thumb.jpg",
             "publishedAt": "2024-01-14T13:50:43Z",

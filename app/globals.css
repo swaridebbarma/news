@@ -1,25 +1,13 @@
-h4 {
-  margin-Left: 10%;
-  color: #E84848;
+.line{
+    border: 1px solid black;
 }
-
-button {
-  height: 35px;
-  background: #E84848
+.row{
+    justify-content: center;
 }
-
-input {
-  height: 30px
+.col{
+    justify-content: center;
+    display: flex;
 }
-
-div {
-  margin-Top: 50px
-}
-
-hr {
-  margin-Top: 15px
-}
-
-h1 {
-  font-Size: 65px
+.custom-margin-top {
+    margin-top: 80px;
 }
