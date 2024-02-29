@@ -9,13 +9,8 @@ const Home = () => {
   return (
     <>
       <Header/>
-
       <News />
-
       <Footer/>
-
-
-
     </>
   );
 };

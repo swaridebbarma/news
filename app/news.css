@@ -1,18 +1,39 @@
+.container{
+    margin-top: 52px;
+    margin-bottom: 31px;
+}
 .my-element {
     width: 301px;
-    height: auto;
+    height: 408px; 
     border: 1px solid black;
-    margin-top: 10px;
+    margin-top: 20px;
     padding: 1px;
 }
+@media (max-width: 768px) {
+    .container{
+        margin-top: 60px;
+      }
+  }
+  
+  @media (min-width: 769px) {
+    .container{
+      margin-top: 89px;
+    }
+  }
 
-.picter {
+
+
+
+
+
+
+/* .picter {
     width: 100%;
     height: auto; 
-}
+} */
 
-.fontsize {
+/* .fontsize {
     font-size: 10px;
-}
+} */
 
 

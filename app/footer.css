@@ -1,6 +1,7 @@
-.img {
-    height: 8px;
-    width: 8px;
+.logo {
+    width: 8.302px;
+    height: 8.302px;
+    margin-bottom: 1px;
 }
 
 .size {
@@ -11,5 +12,28 @@
     font-weight: 400;
     line-height: 140%;
     text-align: center;
-    margin-top: 45px;
+    margin-top: 59px;
+    margin-bottom: 57px;
 }
+.hr{
+    margin-top: 89px;
+}
+
+@media (max-width: 768px) {
+    .size {
+      margin-top: 28px;
+    }
+    .hr {
+      margin-top: 60px; 
+    }
+  }
+  
+  @media (min-width: 769px) {
+    .size {
+      margin-top: 59px; 
+    }
+    .hr {
+      margin-top: 89px;
+    }
+  }
+  

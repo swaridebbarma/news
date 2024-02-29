@@ -1,13 +1,23 @@
-.line{
+
+.row{
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+/* .line{
     border: 1px solid black;
 }
 .row{
     justify-content: center;
 }
-.col{
-    justify-content: center;
-    display: flex;
-}
+
 .custom-margin-top {
     margin-top: 80px;
-}
+} */
