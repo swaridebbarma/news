@@ -1,4 +1,17 @@
-
-.row{
-    justify-content: center;
+@media (min-width: 1200px) {
+    .container {
+        width: 940px;
+    }
+}
+.Top-News {
+    color: #D02424;
+    font-family: "Inria Sans";
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-top: 89px;
+}
+@media (max-width: 551px) {
+    .Top-News {
+        margin-top: 60px;
+    }
 }

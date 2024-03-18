@@ -1,28 +1,19 @@
-// import data from "./data.js";
 import "./news.css";
-
-const News = () => {
+import Newsarticle from './Newsarticle.js';
+const News = (props) => {
   return (
-    <>
-      <div className="row">
-        <div className="col-sm-12 my-element"></div>
-        <div className="col-sm-12 my-element"></div>
-        <div className="col-sm-12 my-element"></div>
-      </div>
-      <div className="row">
-        <div className="col-sm-12 my-element"></div>
-        <div className="col-sm-12 my-element"></div>
-        <div className="col-sm-12 my-element"></div>
-      </div>
-      <div className="row">
-        <div className="col-sm-12 my-element"></div>
-        <div className="col-sm-12 my-element"></div>
-        <div className="col-sm-12 my-element"></div>
-      </div>
-    </>
+
+    <div className="row">
+      <Newsarticle newsData={props.article1} />
+      <Newsarticle newsData={props.article2} />
+      <Newsarticle newsData={props.article3} />
+    </div>
   );
 };
 
 export default News;
+
+
+
 
 

@@ -1,69 +1,32 @@
-.perent-container {
-    display: flex;
-    justify-content: center;
+.search-box {
     margin-top: 89px;
-    margin-bottom: 89px;
+    text-align: center;
 }
 
-@media (max-width: 768px) {
-    .parent-container {
-        margin-top: 50px;
+@media (max-width: 576px) {
+    .search-box {
+        margin-top: 60px;
+        text-align: center;
     }
 }
 
-.search-container {
-    position: relative;
-    display: flex;
-    justify-content: center;
-    width: 267px;
+.icon {
     height: 60px;
-    flex-shrink: 0;
-}
-
-.search-icon {
-    position: absolute;
-    left: -35px;
-    top: 15px;
-    width: 32px;
-    height: 32px;
-    flex-shrink: 0;
-}
-
-@media (max-width: 768px) {
-    .search-icon {
-        font-size: 1.2em;
-        left: -5px;
-    }
-}
-
-
-.name {
-    color: var(--Dark, #3C3030);
+    background-image: url("/Frame 15.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left: 35px;
     font-family: "Iowan Old Style";
     font-size: 20px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 140%;
-    padding-left: 40px;
 }
+
 
 .go {
-    color: var(--light, #FDFDFA);
-    display: inline-flex;
-    padding: 17px 13px 16px 22px;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 10px;
-    border-radius: 1px;
+    width: 60px;
+    height: 60px;
+    color: #FDFDFA;
     border: 1px solid #E84848;
     background: #E84848;
-}
-
-@media (max-width: 768px) {
-
-    .name,
-    .go {
-        font-size: 16px;
-    }
+    font-family: "Iowan Old Style";
+    font-size: 20px;
 }

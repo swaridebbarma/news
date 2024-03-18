@@ -1,0 +1,50 @@
+.my-element {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* border: 1px solid black; */
+}
+
+@media (max-width: 551px) {
+    .my-element {
+        margin-top: 15px;
+        margin-bottom: 10px;
+
+    }
+}
+
+.img {
+    width: 100%;
+}
+
+.title {
+    color: #3C3030;
+    margin-top: 16px;
+    font-size: 18px;
+    font-family: "Inknut Antiqua";
+    font-weight: 600;
+    line-height: 22px;
+
+}
+
+.description {
+    color: #3C3030;
+    margin-top: 16px;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+
+}
+
+.more-details {
+    color: #3C3030;
+    font-family: "Inria Sans";
+}
+
+.url {
+    color: #D02424;
+    font-family: Inter;
+    margin-left: 10px;
+
+
+}
