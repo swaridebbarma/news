@@ -18,9 +18,8 @@
     padding-left: 35px;
     font-family: "Iowan Old Style";
     font-size: 20px;
+    border: 1px solid rgba(60, 48, 48, 0.30);
 }
-
-
 .go {
     width: 60px;
     height: 60px;
@@ -29,4 +28,27 @@
     background: #E84848;
     font-family: "Iowan Old Style";
     font-size: 20px;
+}
+.container {
+    width: 1240px;
+    margin-top: 89px;
+}
+@media (min-width: 1150px) {
+    .container {
+        width: 940px;
+        margin-top: 89px;
+
+    }
+}
+.new {
+    color: #D02424;
+    font-family: "Inria Sans";
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-top: 89px;
+}
+@media (max-width: 551px) {
+    .new{
+        margin-top: 60px;
+    }
 }

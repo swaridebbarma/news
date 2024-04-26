@@ -3,11 +3,14 @@ import News from './news.js';
 import Header from './header.js';
 import Footer from './footer.js';
 import { article_data } from './data.js'
+import Search from "./search.js";
 
 const Home = () => {
   return (
     <>
       <Header />
+      <Search />
+
       <div className="container">
         <h1 className="Top-News">Top News from India</h1>
         <News article1={article_data[0]} article2={article_data[1]} article3={article_data[2]} />

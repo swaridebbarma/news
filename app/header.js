@@ -1,6 +1,4 @@
 import "./header.css";
-import Search from "./search.js";
-
 const Header = () => {
   return (
     <>
@@ -12,7 +10,6 @@ const Header = () => {
       </div>
       <hr className="hr-margin" />
       <hr className="hr-margin" />
-      <Search />
 
     </>
   );
