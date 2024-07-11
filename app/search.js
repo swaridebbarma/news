@@ -1,58 +1,55 @@
-"use client"
-import "./search.css";
-import "./newsarticle.css";
-import Newsarticle from './Newsarticle.js';
+import React, { useState } from "react";
 
-import React, { useState } from 'react';
-
-
-const Search = ({ onSearch }) => {
+const Search = ({ changeArticles }) => {
     const [search, setSearch] = useState("");
-    const [news, setNews] = useState([]);
 
-    const handleSearch = () => {
-        fetchNews(search);
+    const handleSearchInput = (e) => {
+        setSearch(fetchNews);
     };
 
-    const fetchNews = (newsName) => {
+    const fetchNews = function (newsName) {
+
         fetch(
             `https://newsapi.org/v2/everything?q=${newsName}&sortBy=popularity&apiKey=aa33bbd22afd49eea4fea89536a508be`
         )
             .then((response) => response.json())
             .then((data) => {
-                const firstNineArticles = [];
-                for (let i = 0; i < 9 && i < data.articles.length; i++) {
-                    firstNineArticles.push(data.articles[i]);
+                const searchArticles = [];
+                for (let i = 0; i < 9; i++) {
+                    const article = data.articles[i];
+                    searchArticles.push({
+                        id: article.url,
+                        title: article.title,
+                        urlToImage: article.urlToImage,
+                        description: article.description,
+                        url: article.url,
+
+                    });
                 }
-                setNews(firstNineArticles);
+                changeArticles(searchArticles);
             })
-
+            .catch((error) => {
+                console.error("Error fetching news:", error);
+            });
     };
+
     return (
-        <>
-            <div className="search-box">
-                <input
-                    value={search}
-                    onChange={(e) => setSearch(e.target.value)}
-                    placeholder="Search"
-                    className="icon"
-                />
-                <button className="go" onClick={handleSearch}>
-                    Go
-                </button>
-                <div className="col-12 col-md-4 my-element">
-                    {news.map((article, index) => (
-                        <Newsarticle key={index} newsData={article} />
-                    ))}
-                </div>
 
-            </div>
+        <div className="search">
+            <input
+                type="search"
+                placeholder="Search"
+                className="search-bar"
+                value={search}
+                onChange={(e) => setSearch(e.target.value)}
+            />
+            <button
+                className="go_button"
+                onClick={handleSearchInput}
+            >Go</button>
+        </div>
 
-        </>
     );
 };
 
 export default Search;
-
-
-

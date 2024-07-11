@@ -14,7 +14,262 @@
     .Top-News {
         margin-top: 60px;
     }
-}
+} 
 
 
-
+ 
+ *{
+    box-sizing: border-box;
+    margin: 0px;
+  }
+  
+  /* #header css */
+  .header{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: "Iowan Old Style";
+    color:#3c3030;
+    font-size: 84px;
+  }
+  
+  #circle{
+    margin-top: -12px;
+    width: 60.291px;
+    height: 60.291px;
+  }
+  
+  .border-line-1{
+    border-top: 1px solid black;
+  }
+  
+  .border-line-2{
+    border-top: 1px solid black;
+    margin-top: 5px;
+  }
+  
+  
+  /* #search css */
+  .search{
+    display:flex ;
+    justify-content: center;
+    margin-top: 89px;
+    margin-bottom: 89px;
+  }
+  
+  
+  .search-bar{
+    height: 60px;
+    width: 267px;
+    background-image: url("/search.svg");
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left: 35px;
+    font-family: "Iowan Old Style";
+  }
+  
+  
+  .go_button{
+    background: #E84848;
+    color: #FDFDFA;
+    font-size: 20px;
+    font-family: "Iowan Old Style";
+    border: 1px solid #E84848; 
+    width: 61px; 
+    height: 60px;
+  } 
+  
+  
+  
+  /* #grid css */
+  #top-news{
+    color: #D02424;
+    font-family: "Inria Sans";
+    font-size: 20px;
+  }
+  
+  
+  .col-sm-4{
+    height: 408px;
+  }
+   
+  .image{
+    width:100%;
+  }
+  
+  .text{
+    color: #3C3030;
+    font-family: "Inknut Antiqua";
+    font-size: 18px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+  
+  .description{
+    color: #3C3030;
+    font-family: "Inter";
+    font-size: 16px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+  
+  .read-article{
+    color: #3C3030;
+    font-family: "Inria Sans";
+    font-size: 16px;
+  }
+  
+  .hidden-link {
+    text-decoration: none;
+  }
+  
+  .arrow{
+    width: 22px;
+  }
+  
+  
+  /* #footer css */
+  
+  .line{
+    border-top: 1px solid black;
+  }
+  
+  .footer-class{
+    color: #3C3030;
+    font-family: "Iowan Old Style";
+    font-size: 15.095px;
+    margin-top: 59px;
+    margin-bottom: 57px;
+   
+  }
+  .footer{
+    color: #3C3030;
+    font-family: "Iowan Old Style";
+    font-size: 15.095px;
+    text-align: center;
+  }
+  
+  .circle_img{
+    width: 8.302px;
+    height: 8.302px;
+  }
+  
+  .footer-text{
+    text-align: center;
+    color: #3C3030;
+    font-family: "Iowan Old Style";
+    font-size: 15.095px;
+    font-weight: 400;
+  }
+  
+  .circle-footer{
+    width: 8.302px;
+    height: 8.302px;
+    margin-bottom: 4px;
+  }
+  
+  .txt{
+    color: #3C3030;
+    text-align: center;
+    font-family: "Inria Serif";
+    font-size: 16px;
+    font-weight: 400;
+  }
+  
+  /* ListItems */
+  .image{
+    width: 100%;
+  }
+  
+  .box{
+    margin-bottom: 80px;
+    padding: 20px;
+  }
+  
+  .title{
+    color: #3C3030;
+    font-family: "Inknut Antiqua";
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: -0.72px;
+    line-height: 120%;
+    margin-top: 10px;
+  }
+  
+  .description{
+    color: var(--Dark, #3C3030);
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 400;
+  
+  }
+  
+  .arrow_para{
+    color: #3C3030;
+    text-decoration: none;
+  }
+  
+  .top-news{
+    color:  #D02424;
+    font-family: "Inria Sans";
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+  }
+  @media (min-width: 1260px) {
+    .container {
+      width: 940px;
+  }  
+    .col-sm-4{
+      margin-bottom: 90px;
+    }
+  }     
+  
+  
+  @media(max-width:576px ){
+     /* header css */
+     .header{
+      color: #3C3030;
+      font-family: "Iowan Old Style";
+      font-size: 35.957px;
+    }
+  
+    #circle{
+      width: 25.809px;
+      height: 25.809px;
+      margin-top: -6px;
+    }
+  
+  
+  
+  /* layout */
+    .container{
+      width: 364px;
+    }
+    /* news row css */
+    .col-sm-4{
+      margin-bottom: 60px;
+    }
+   
+    .image{
+      width:100%;
+    }
+  /* footer css */
+  
+    #line-2{
+      margin-top: 28px;
+    }
+  
+  
+    .footer-div{
+      margin-top: 28px;
+    }
+  
+  }
+  
+  @media(max-width:576px){
+    /* header css */
+    .news{
+      font-size: 35.957px;
+    }
+  }
