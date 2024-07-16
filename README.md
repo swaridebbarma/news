@@ -1,3 +1,9 @@
+# Description
+The News API Application is a simple web app that fetches and displays news articles using the News API. Users can search for news by keywords and view the latest headlines.
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
