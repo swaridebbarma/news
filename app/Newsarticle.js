@@ -1,8 +1,15 @@
 import "./newsarticle.css";
-const Newsarticle = ({ article }) => (
-    <>
-        <div className='col-sm-4'>
-            <img className='image' src={article.urlToImage} alt={article.title} />
+const Newsarticle = ({ article }) => {
+    if (!article) {
+        return null; 
+    }
+
+    return (
+        <>
+            <div className='col-sm-4'>
+                {article.urlToImage && (
+                    <img className='image' src={article.urlToImage} alt={article.title} />
+                )}
             <h2 className='title'>{article.title}</h2>
             <p className='description'>{article.description}</p>
             <p className="arrow_para">
@@ -10,6 +17,7 @@ const Newsarticle = ({ article }) => (
             </p>
         </div>
     </>
-);
+    )
+};
 
 export default Newsarticle;
