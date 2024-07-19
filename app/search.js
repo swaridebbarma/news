@@ -14,19 +14,22 @@ const Search = ({ changeArticles }) => {
         )
             .then((response) => response.json())
             .then((data) => {
-                const searchArticles = [];
-                for (let i = 0; i < 9; i++) {
-                    const article = data.articles[i];
-                    searchArticles.push({
-                        id: article.url,
-                        title: article.title,
-                        urlToImage: article.urlToImage,
-                        description: article.description,
-                        url: article.url,
-
-                    });
+                if (data.articles && data.articles.length > 0) {
+                    const searchArticles = [];
+                    for (let i = 0; i < 9; i++) {
+                        const article = data.articles[i];
+                        if (article) {
+                            searchArticles.push({
+                                id: article.url,
+                                title: article.title,
+                                urlToImage: article.urlToImage,
+                                description: article.description,
+                                url: article.url,
+                            });
+                        }
+                    }
+                    changeArticles(searchArticles);
                 }
-                changeArticles(searchArticles);
             })
             .catch((error) => {
                 console.error("Error fetching news:", error);
